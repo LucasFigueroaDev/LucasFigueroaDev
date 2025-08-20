@@ -28,7 +28,7 @@ Estilos responsivos: Adaptable a diferentes tamaños de pantalla (móviles, tabl
 Interactividad: Modal para ver las imágenes en tamaño completo.
 
 
-* **[TakeawayDelivery](https://github.com/LucasFigueroaDev/TakeawayDelivery-FigueroaLucas)**: 
+* **[FastFood](https://github.com/LucasFigueroaDev/TakeawayDelivery-FigueroaLucas)**: 
 Este proyecto es un carrito de compras dinámico desarrollado en JavaScript que permite a los usuarios agregar productos, gestionar cantidades, realizar pagos mediante diferentes métodos (tarjeta o efectivo) y seleccionar el tipo de entrega (retiro en local o envío a domicilio). Además, utiliza localStorage para guardar los datos del carrito entre sesiones.
 
 Funcionalidades Principales
