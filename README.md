@@ -1,7 +1,7 @@
 
 # Lucas Figueroa - Desarrollador Apasionado y Creador de Soluciones Digitales
 
-## ¡Hola! 👋
+## ¡Hola! �
 
 Soy Lucas, un desarrollador con una profunda pasión por transformar ideas en realidad a través del código. Mi enfoque principal se centra en el desarrollo web full-stack, donde disfruto tanto la creación de interfaces de usuario intuitivas como la construcción de arquitecturas de backend robustas.
 
