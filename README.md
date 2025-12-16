@@ -77,7 +77,7 @@ Estas son algunas de las tecnologías con las que tengo experiencia:
 
 ## Contacto
 
-* [LinkedIn - Lucas Figueroa](www.linkedin.com/in/lucas-figueroa-94711b260)
+* [LinkedIn - Lucas Figueroa] (www.linkedin.com/in/lucas-figueroa-94711b260)
 * correo electrónico - figueroa.dev93@gmail.com
 
 
