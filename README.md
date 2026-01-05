@@ -77,8 +77,9 @@ Estas son algunas de las tecnologías con las que tengo experiencia:
 
 ## Contacto
 
-* [LinkedIn - Lucas Figueroa] (www.linkedin.com/in/lucas-figueroa-94711b260)
-* correo electrónico - lucasafigueroa93@gmail.com
+- **Email**: lucasafigueroa93@gmail.com
+- **Portafolio**: https://portafolio-five-xi-26.vercel.app/
+- **Linkedin**: https://linkedin.com/in/lucas-a-figueroa
 
 
 ## Próximos pasos
